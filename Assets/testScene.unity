@@ -105,9 +105,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a8ea3cabefd0de54faaafd9fae128162, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  leaderboardID: com.company.game.leaderboardname
-  leaderboardName: leaderboard01
-  achievement1Name: com.compnayname.demo.10m
+  leaderboardID: dk.gearworks.gamecentertest
+  leaderboardName: Leaderboard01
+  achievement1Name: Achievement01
 --- !u!81 &985187326
 AudioListener:
   m_ObjectHideFlags: 0

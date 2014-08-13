@@ -19,8 +19,12 @@ public class test : MonoBehaviour {
         // THIS CALL NEEDS OT BE MADE BEFORE WE CAN PROCEED TO OTHER CALLS IN THE Social API
         Social.localUser.Authenticate(ProcessAuthentication);
 
+		Debug.Log ("start");
+
         // GET INSTANCE OF LEADERBOARD
         DoLeaderboard();
+
+
 	}
 	
 	// Update is called once per frame
