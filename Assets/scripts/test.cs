@@ -7,10 +7,10 @@ public class test : MonoBehaviour {
 
     static ILeaderboard m_Leaderboard;
 
-    public string leaderboardID = "com.company.game.leaderboardname";
+    public string leaderboardID = "dk.gearworks.gamecentertest";
 
-    public string leaderboardName = "leaderboard01";
-    public string achievement1Name = "com.compnayname.demo.10m";
+    public string leaderboardName = "Leaderboard01";
+    public string achievement1Name = "Achievement01";
 
 	// Use this for initialization
 	void Start () {
